@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Software Engineer and exited founder<br>Currently freelancing
+Full Stack
 
 
 ## 🌐 Socials:
